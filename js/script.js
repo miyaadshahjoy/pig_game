@@ -53,7 +53,7 @@ holdBtn.addEventListener('click', function () {
         score[currentPlayer - 1] += currentScore;
         document.querySelector(`#score-${currentPlayer}`).textContent = score[currentPlayer - 1];
 
-        if (score[currentPlayer - 1] >= 20) {
+        if (score[currentPlayer - 1] >= 100) {
             //current player wins
             document.querySelector(`.player-${currentPlayer}`).classList.remove('player-active');
             document.querySelector(`.player-${currentPlayer}`).classList.add('player-winner');
