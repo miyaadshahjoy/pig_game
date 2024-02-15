@@ -1,1 +1,1 @@
-[# pig-game](https://miyaadjoy.github.io/pig-game/)
+[# pig-game: https://miyaadshahjoy.github.io/pig_game/](https://miyaadshahjoy.github.io/pig_game/)
